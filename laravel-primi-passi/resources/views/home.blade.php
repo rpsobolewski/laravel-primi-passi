@@ -18,13 +18,13 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="/info">Info</a>
+                        <a class="nav-link active" aria-current="page" href="{{route('info')}}">Info</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/features">Features</a>
+                        <a class="nav-link" href="{{route('features')}}">Features</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/pricing">Pricing</a>
+                        <a class="nav-link" href="{{route('pricing')}}">Pricing</a>
                     </li>
 
                 </ul>

@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <a href="/">Back</a>
+    <a href="{{route('home')}}">Back</a>
 
     <ol>
         <li>none</li>

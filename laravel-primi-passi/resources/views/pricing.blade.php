@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <a href="/"><img src="../3kxslnpx.bmp" alt=""></a>
+    <a href="{{route('home')}}"><img src="../3kxslnpx.bmp" alt=""></a>
     <h1>soldi</h1>
 
 </body>

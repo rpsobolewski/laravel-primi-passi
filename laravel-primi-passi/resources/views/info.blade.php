@@ -9,7 +9,7 @@
 
 <body>
 
-    <a href="/">Back</a>
+    <a href="{{route('home')}}">Back</a>
     <h1>Info</h1>
     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repudiandae eius suscipit fugit aliquam nisi maxime, quos quam et sed veniam aperiam? Id eveniet placeat vel facere. Laboriosam dolores pariatur ab?</p>
 </body>
